@@ -15,6 +15,7 @@ Target:
 `0` : Pembayaran Lancar  
 `1` : Pembayaran Terkendala (Default)
 
+Data: https://www.kaggle.com/c/home-credit-default-risk
 
 **Goals / Tujuan**  
 Pernyataan goals untuk case study Home Credit Default Risk yang bertujuan untuk dapat membedakan kelas positif dan negatif dengan baik dengan ROC AUC serta meminimalisir False Negative rate adalah sebagai berikut:
